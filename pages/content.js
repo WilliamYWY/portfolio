@@ -69,10 +69,10 @@ export default function Content() {
                         Seeking to learn more about <span className="text-[#8D9EFF] font-semibold">AIoT</span>, <span className="text-[#8D9EFF] font-semibold">health technology</span>, <span className="text-[#8D9EFF] font-semibold">block chain</span> and <span className="text-[#8D9EFF] font-semibold">FinTech</span>.
                     </p>
                     <div className="absolute flex flex-row bottom-5 space-x-5">
-                        <a href="" className="">
+                        <a target="_blank" rel="noreferrer" href="https://github.com/WilliamYWY" className="">
                             <AiFillGithub className="text-2xl hover:scale-110 mt-2 duration-150" />
                         </a>
-                        <a href="" className="">
+                        <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/williamyy777/" className="">
                             <AiFillLinkedin className="text-2xl hover:scale-110 mt-2 duration-150" />
                         </a>
                     </div>
