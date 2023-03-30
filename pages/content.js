@@ -416,7 +416,7 @@ export default function Content() {
                         Leave your contact information below
                     </p>
                     <span className="block bg-white absolute w-4/6 h-[1px] top-14 m-0"></span>
-                    <form target="_blank" rel="noreferrer" action="https://formsubmit.co/williamYY@altmails.com" method="POST">
+                    <form target="_blank" action="https://formsubmit.co/williamYY@altmails.com" method="POST">
                         <div className="flex flex-col justify-between pt-5 space-y-5 text-black">
                             <input name="name" placeholder="Name" className=" w-5/6 rounded-md p-1" required />
                             <input name="email" type="email" placeholder="E-mail" className=" w-5/6 rounded-md p-1" required />
