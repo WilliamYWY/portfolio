@@ -389,7 +389,7 @@ export default function Content() {
                 <div className="w-full h-full overflow-hidden relative">
                     <div className="bg-black rounded-lg w-full h-full inset-0 m-auto absolute -z-[9]">
                     </div>
-                    <img src="/Resume_Wei-Yu Yang_new.png" className="scale-[93%] w-full h-full object-cover object-top rounded-lg duration-200 group-hover:blur-sm" />
+                    <img src="/Resume_Wei-Yu Yang.png" className="scale-[93%] w-full h-full object-cover object-top rounded-lg duration-200 group-hover:blur-sm" />
                     <div className={`bg-gray-500 h-full inset-0 m-auto absolute rounded-lg opacity-0 group-hover:opacity-30 duration-200`}>
                     </div>
                     <div className="h-1/3 flex justify-center items-center z-10 absolute -bottom-1/3 left-0 right-0 rounded-bl-lg rounded-br-lg group-hover:-translate-y-full duration-200">
